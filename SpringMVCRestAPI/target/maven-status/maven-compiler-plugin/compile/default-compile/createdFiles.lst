@@ -1,0 +1,9 @@
+com\firstapi\service\BookServiceImp.class
+com\firstapi\dao\BookDao.class
+com\firstapi\config\WebConfig.class
+com\firstapi\controller\BookController.class
+com\firstapi\config\MyWebAppInitializer.class
+com\firstapi\service\BookService.class
+com\firstapi\config\AppConfig.class
+com\firstapi\model\Book.class
+com\firstapi\dao\BookDaoImp.class
